@@ -1,4 +1,4 @@
-# System-Tray-using-PySide2
+# System-Tray
 Launches a system tray which includes two menu items:
 - CpuUsageVisualization app. (Gives visual representation of the CPU usage)
 - Exit. (Exits the System Tray)
